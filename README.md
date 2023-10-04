@@ -3,7 +3,8 @@ This is how I performed sentiment analysis on Tweets about Bitcoin for my diplom
 
 The dataset that I got from Alex. ``tweets.csv, Bitcoin tweets - 16M tweets''. (),https://www.kaggle.com/datasets/alaix14/bitcoin-tweets-20160101-to-20190329.
 
-Can be found there, or in this Google Drive link: make sure that you unzip it in the place where handle_tweets.py exists.
+Can be found there, or in this Google Drive link: https://drive.google.com/file/d/1aWbR4RYHGimm6H8ZcDYBrSYNHNcK8w3y/view?usp=sharing
+ Μake sure that you unzip it in the place where handle_tweets.py exists.
 
 
 
