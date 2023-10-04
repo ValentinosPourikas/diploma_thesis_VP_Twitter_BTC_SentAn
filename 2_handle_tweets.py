@@ -1,5 +1,5 @@
 #%%
-'''This Python script, handle_tweets.py, processes tweet data from a CSV file named 'tweets.csv'. It extracts
+'''This Python script, handle_tweets.py, processes tweet data from a CSV file named 'tweets.csv' (Alex. ``tweets.csv, Bitcoin tweets - 16M tweets''., https://www.kaggle.com/datasets/alaix14/bitcoin-tweets-20160101-to-20190329). It extracts
 essential information such as usernames,dates, times,and text content from each tweet. By comparing usernames
 with a list of cryptocurrency influencers, it identifies and collects posts from these influencers. The script
 then compiles this data into a list and saves it as 'original_data.json'. The collection part is time consuming 
